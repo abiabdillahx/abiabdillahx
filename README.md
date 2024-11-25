@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Muhammad Abi Abdillah from Indonesia<br><br>- 🔭 I’m working as Back-End Developer Intern<br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- ⚡ In my free time I love to learn new language and Listening to Music<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast</p>
+<p align="left">I'm Muhammad Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 🔭 I’m working as Back-End Developer Intern<br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- ⚡ In my free time I love to learn new language and Listening to Music<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a></p>
 
 ###
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="right">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href"#"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
