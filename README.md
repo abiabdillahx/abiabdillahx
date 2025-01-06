@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">I'm Muhammad Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 🔭 I’m working as Back-End Developer Intern<br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- ⚡ In my free time I love to learn new language and Listening to Music<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a><br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a></p>
-
-<a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="150" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a>
+<div align="center">
+  <a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="180" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a>
+</div>
 
 ###
 
