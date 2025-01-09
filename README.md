@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Muhammad Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 🔭 I’m working as Back-End Developer Intern<br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- ⚡ In my free time I love to learn new language and Listening to Music<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a><br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a></p>
+<p align="left">I'm Muhammad Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 🔭 I’m working as Back-End Developer Intern<br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- ⚡ In my free time I love to learn new language and Listening to Music<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a><br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a> or click this button</p>
 <div align="center">
-  <a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="180" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a>
+<!--   <a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="180" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a> -->
+  <a href='https://ko-fi.com/W7W517NH0E' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 ###
@@ -104,13 +105,13 @@ Here are some ideas to get you started:
 
 ###
 
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abiabdillahx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div>-->
 
 <!-- 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
