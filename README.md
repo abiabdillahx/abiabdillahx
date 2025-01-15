@@ -108,8 +108,10 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">🔥   My Stats :</h3>
+<!--Nord theme-->
 
-![abiabdillahx's Stats](https://github-readme-stats.vercel.app/api?username=abiabdillahx&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=abiabdillahx&theme=nord&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+![abiabdillahx's Stats](https://github-readme-stats.vercel.app/api?username=abiabdillahx&theme=nord&show_icons=true&hide_border=true&count_private=true)
 <!-- ### -->
 <!--
 <div align="center">
