@@ -104,6 +104,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
 ###
