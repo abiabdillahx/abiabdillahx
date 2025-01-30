@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <a href="https://github.com/abiabdillahx/learn-notes/blob/main/notes/git.md"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
