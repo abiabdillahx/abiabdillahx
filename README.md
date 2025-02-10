@@ -104,7 +104,7 @@ Here are some ideas to get you started:
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="asm logo"  />
 </div>
 
 ###
