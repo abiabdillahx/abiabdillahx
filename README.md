@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://x.com/abdillahabii_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://instagram.com/abdillahabii_" target="_blank">
+  <a href="https://instagram.com/abiabdillahx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://tryhackme.com/r/p/shizukanaYoru" target="_blank">
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Muhammad Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- ⚡ In my free time I love to learn new language and Listening to Music<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a><!--<br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a> or click this button--></p>
+<p align="left">I'm Muhammad Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a><!--<br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a> or click this button--></p>
 <div align="center">
 <!--   <a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="180" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a> -->
 <!--   <a target="_blank" href='https://ko-fi.com/W7W517NH0E' target='_blank'><img height='32' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
