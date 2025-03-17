@@ -86,25 +86,25 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <a href="https://www.java.com/en/">  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <a href="https://getbootstrap.com/">  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <a href="https://www.python.org/">  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <a href="https://www.php.net/">  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <a href="https://laravel.com/">  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <a href="https://www.gnu.org/software/bash/">  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /></a>
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
+  <a href="https://www.kali.org/">  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="asm logo"  />
+  <a href="https://neovim.io/">  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="nvim logo"  /></a>
 </div>
 
 ###
