@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- ini
 
 <h1 align="center">Hello world! 👋</h1>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<!-- ini 
 <h3 align="right">🛠 Language and tools</h3>
 
 ###
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" /> -->
+  <!-- ini 
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -76,6 +77,7 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> 
    <img width="12" /> -->
+   <!-- ini
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
 </div>
 
@@ -102,6 +104,7 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" /> -->
+  <!-- ini 
   <a href="https://www.kali.org/">  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  /></a>
   <img width="12" />
   <a href="https://neovim.io/">  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="nvim logo"  /></a>
