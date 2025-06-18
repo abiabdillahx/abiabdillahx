@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+<!--## Hi there 👋-->
 <!--
 **abiabdillahx/abiabdillahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ini
+<!-- ini -->
 
 <h1 align="center">Hello world! 👋</h1>
 
@@ -48,7 +48,12 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br><br>- 📚 I'm currently learning PHP, Laravel, and Javascript<br>- 🔏 I'm also a CTF player and Cyber Security Enthusiast<br>- 📧 Reach me on <a href="mailto:abiabdillahx@gmail.com">here</a><!--<br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a> or click this button--></p>
+<p align="left">
+  - 🧑‍🦱 I'm Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br>
+  - 📚 I'm currently learning PHP, Laravel, and Javascript<br>
+  - 🔏 CTF player and Cyber Security Enthusiast<br>
+  - 😼 I use neovim btw<br>
+  - 📧 Reach me <a href="mailto:abiabdillahx@gmail.com">here</a><!--<br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a> or click this button--></p>
 <div align="center">
 <!--   <a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="180" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a> -->
 <!--   <a target="_blank" href='https://ko-fi.com/W7W517NH0E' target='_blank'><img height='32' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
@@ -56,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<!-- ini 
+<!-- ini -->
 <h3 align="right">🛠 Language and tools</h3>
 
 ###
@@ -68,7 +73,7 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" /> -->
-  <!-- ini 
+  <!-- ini -->
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -77,7 +82,7 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> 
    <img width="12" /> -->
-   <!-- ini
+   <!-- ini -->
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
 </div>
 
@@ -104,7 +109,7 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" /> -->
-  <!-- ini 
+  <!-- ini -->
   <a href="https://www.kali.org/">  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  /></a>
   <img width="12" />
   <a href="https://neovim.io/">  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="nvim logo"  /></a>
@@ -120,7 +125,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8&card_width=400)](https://git.io/streak-stats)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&bg_color=092025&color=d4abd1&line=5fc6ce&point=b8daff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-<h3 align="left">🤝   Contribution</h3>
+<h3 align="left">🤝   My Contribution</h3>
 ``````
 
 [Here]()
