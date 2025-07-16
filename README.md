@@ -172,5 +172,6 @@ fetch('/admin')
   });
 </script>
 
-<a href="http://127.0.0.1/admin">Aku admin</a>
+<a href="http://127.0.0.1:9001/admin">Aku admin</a>
+<a href="http://127.0.0.1:3000/admin">Aku admin</a>
 
