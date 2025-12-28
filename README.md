@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/abiabdillah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/abdillahabii_" target="_blank">
+  <a href="https://x.com/zenCipher_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/abiabdillahx" target="_blank">
@@ -71,19 +71,19 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" /> -->
-  <!-- ini -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> 
-   <img width="12" /> -->
-   <!-- ini -->
+  <a href="https://go.dev"/><img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  /></a> 
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </div>
 
 ###
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://www.java.com/en/">  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /></a>
   <img width="12" />
-  <a href="https://getbootstrap.com/">  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /></a>
+  <a href="https://getbootstrap.com/">  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -107,12 +107,11 @@ Here are some ideas to get you started:
   <img width="12" />
   <a href="https://www.gnu.org/software/bash/">  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /></a>
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" /> -->
-  <!-- ini -->
-  <a href="https://www.kali.org/">  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  /></a>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <a href="https://neovim.io/">  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="nvim logo"  /></a>
+  <a href="https://www.kali.org/">  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  /></a>
+  <img width="12" />
+  <a href="https://neovim.io/">  <img src="https://skillicons.dev/icons?i=k8s" height="40" alt="k8s logo"  /></a>
 </div>
 
 ###
@@ -123,9 +122,14 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- [![abiabdillahx's Stats](https://github-readme-stats.vercel.app/api?username=abiabdillahx&theme=dracula&show_icons=true&hide_border=true&count_private=true&card_width=400&border_radius=8)](https://github.com/abiabdillahx?tab=repositories)-->
   
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8&card_width=400)](https://git.io/streak-stats)
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&bg_color=092025&color=d4abd1&line=5fc6ce&point=b8daff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&theme=dracula&area=true&hide_border=true"
+       width="100%">
+</p>
+
 </div>
 <h3 align="left">🤝   My Contribution</h3>
 ``````
