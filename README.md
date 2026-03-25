@@ -68,6 +68,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8&card_width=400)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&theme=dracula&area=true&hide_border=true" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&theme=dracula&area=true&hide_border=true" width="100%" /> -->
 
 </div>
