@@ -1,167 +1,73 @@
-<!--## Hi there 👋-->
-<!--
-**abiabdillahx/abiabdillahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ini -->
+# Abi Abdillah
 
-<h1 align="center">Hello world! 👋</h1>
+*CS student · CTF player · SysAd geek*
 
-###
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abiabdillahx.abiabdillahx)](https://github.com/abiabdillahx)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-abi%40zenc.cc-black?style=flat-square&logo=gmail)](mailto:abiabdillahx@gmail.com)
+
+</div>
+
+---
+
+### About
+
+```
+🏫  Faculty of Computer Science, Brawijaya University
+🔏  CTF Player & Cyber Security Enthusiast
+📚  Currently learning K8S, n8n, and C
+😼  I use neovim btw
+```
+
+---
+
+### Stacks
+
+**languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**frameworks & tools**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**environment & security**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+
+---
+
+### Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abiabdillah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/zenCipher_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/abiabdillahx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://tryhackme.com/r/p/shizukanaYoru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/abiabdillah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abiabdillahx.abiabdillahx&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">
-  - 🧑‍🦱 I'm Abi Abdillah from Faculty of Computer Science at Brawijaya University, Indonesia<br>
-  - 📚 I'm currently learning PHP, Laravel, and Javascript<br>
-  - 🔏 CTF player and Cyber Security Enthusiast<br>
-  - 😼 I use neovim btw<br>
-  - 📧 Reach me <a href="mailto:abiabdillahx@gmail.com">here</a><!--<br>- 🍵 Support me by buy me a coffee <a href="https://ko-fi.com/abiabdillah">here</a> or click this button--></p>
-<div align="center">
-<!--   <a href="https://ko-fi.com/abiabdillah" align="center"><img align="center" width="180" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a> -->
-<!--   <a target="_blank" href='https://ko-fi.com/W7W517NH0E' target='_blank'><img height='32' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
-<!--   <a href='https://github.com/abiabdillahx/ctf-writeup/blob/main/README.md#support-me-here' target='_blank'><img height='36' src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bitcoin-icon.png'/></a> -->
-</div>
-
-###
-<!-- ini -->
-<h3 align="right">🛠 Language and tools</h3>
-
-###
-
-<div align="right">
-  <a href"#"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
-  <img width="12" />
-  <a href="https://go.dev"/><img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  /></a> 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-</div>
-
-###
-
-<h3 align="left">📚 Currently learn</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.java.com/en/">  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /></a>
-  <img width="12" />
-  <a href="https://getbootstrap.com/">  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  /></a>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <a href="https://www.python.org/">  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>
-  <img width="12" />
-  <a href="https://www.php.net/">  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /></a>
-  <img width="12" />
-  <a href="https://laravel.com/">  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  /></a>
-  <img width="12" />
-  <a href="https://www.gnu.org/software/bash/">  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /></a>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <a href="https://www.kali.org/">  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  /></a>
-  <img width="12" />
-  <a href="https://neovim.io/">  <img src="https://skillicons.dev/icons?i=k8s" height="40" alt="k8s logo"  /></a>
-</div>
-
-###
-
-
-<h3 align="left">🔥   My Stats :</h3>
-<!--Nord theme-->
-<div align="center">
-<!-- [![abiabdillahx's Stats](https://github-readme-stats.vercel.app/api?username=abiabdillahx&theme=dracula&show_icons=true&hide_border=true&count_private=true&card_width=400&border_radius=8)](https://github.com/abiabdillahx?tab=repositories)-->
-  
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8&card_width=400)](https://git.io/streak-stats)
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&bg_color=092025&color=d4abd1&line=5fc6ce&point=b8daff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&theme=dracula&area=true&hide_border=true"
-       width="100%">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&theme=dracula&area=true&hide_border=true" width="100%" />
 
 </div>
-<h3 align="left">🤝   My Contribution</h3>
-``````
-
-[Here]()
-
-<!-- ### -->
-<!--
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abiabdillahx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>-->
-
-<!-- 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('abiabdillah', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#5bc0de',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
--->
-
-###
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/0hvgtxcempbn8v23f1ttley66">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0hvgtxcempbn8v23f1ttley66&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
--->
-###
-
-<!--just in case-->
