@@ -96,7 +96,7 @@
   <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8" />
 </a>
 <a href="https://go.zenc.cc">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiabdillahx&show_icons=true&locale=en&layout=compact&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiabdillahx&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" />
 </a>
 
 </div>
