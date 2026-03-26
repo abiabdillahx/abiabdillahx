@@ -87,13 +87,19 @@
 
 ---
 
+
 ### Stats
 
-<!-- <div align="center"> -->
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8&card_width=400)](https://git.io/streak-stats)
-[![Tes](https://github-readme-stats.vercel.app/api/top-langs?username=abiabdillahx&show_icons=true&locale=en&layout=compact&theme=dracula&card_width=400)](https://go.zenc.cc)
+<a href="https://git.io/streak-stats">
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8" />
+</a>
+<a href="https://go.zenc.cc">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiabdillahx&show_icons=true&locale=en&layout=compact&theme=dracula" />
+</a>
+
+</div>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiabdillahx&theme=dracula&area=true&hide_border=true" width="100%" /> -->
 
-</div>
