@@ -77,6 +77,8 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
 [![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+<!-- [![Sui](https://img.shields.io/badge/Move-6FBCF0?style=for-the-badge&logo=sui&logoColor=white)](https://sui.io/) -->
+
 
 **miscellaneous**
 
