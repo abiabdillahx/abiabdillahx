@@ -96,13 +96,18 @@
 ### Stats
 
 <div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8" />
-</a>
-<a href="https://go.zenc.cc">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiabdillahx&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td><a href="https://git.io/streak-stats">
+      <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=abiabdillahx&theme=dracula&hide_border=true&border_radius=8" />
+    </a></td>
+    <td><a href="https://go.zenc.cc">
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abiabdillahx&layout=compact&theme=dracula&hide_border=true" />
+    </a></td>
+    
+  </tr>
+  
+</table>
 
 </div>
 
